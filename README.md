@@ -1,4 +1,4 @@
-# DSA-Sheet-
+# DSA-Sheet
 # 🚀 DSA Zero to Hero Sheet
 
 > A structured, topic-wise Data Structures & Algorithms sheet: **20 topics x 15 problems = 300 hand-picked LeetCode problems**, ordered from fundamentals to hard.
